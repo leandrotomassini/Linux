@@ -1,4 +1,4 @@
-![Linux](https://blogs.unity3d.com/wp-content/uploads/2019/05/image1-11.png)
+![Linux](https://raw.githubusercontent.com/leandrotomassini/Linux/main/Capetas/Linux-Bases/debian-centos.jpg)
 
 ## Links de utilidad
 * [Linux](https://www.linux.com/)

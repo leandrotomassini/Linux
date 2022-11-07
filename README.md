@@ -10,4 +10,4 @@
 * []()
 
 # Debian / CentOS
-* [Debian / CentOS](https://github.com/leandrocosmetomassini/Linux/tree/master/Capetas/Centos-Debian)
+* [Debian / CentOS](https://github.com/leandrotomassini/Linux/tree/master/Capetas/Centos-Debian)
